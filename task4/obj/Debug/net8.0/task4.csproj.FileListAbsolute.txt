@@ -1,0 +1,15 @@
+E:\GB_Unity_study\Lection_Array\task4\bin\Debug\net8.0\task4.exe
+E:\GB_Unity_study\Lection_Array\task4\bin\Debug\net8.0\task4.deps.json
+E:\GB_Unity_study\Lection_Array\task4\bin\Debug\net8.0\task4.runtimeconfig.json
+E:\GB_Unity_study\Lection_Array\task4\bin\Debug\net8.0\task4.dll
+E:\GB_Unity_study\Lection_Array\task4\bin\Debug\net8.0\task4.pdb
+E:\GB_Unity_study\Lection_Array\task4\obj\Debug\net8.0\task4.GeneratedMSBuildEditorConfig.editorconfig
+E:\GB_Unity_study\Lection_Array\task4\obj\Debug\net8.0\task4.AssemblyInfoInputs.cache
+E:\GB_Unity_study\Lection_Array\task4\obj\Debug\net8.0\task4.AssemblyInfo.cs
+E:\GB_Unity_study\Lection_Array\task4\obj\Debug\net8.0\task4.csproj.CoreCompileInputs.cache
+E:\GB_Unity_study\Lection_Array\task4\obj\Debug\net8.0\task4.sourcelink.json
+E:\GB_Unity_study\Lection_Array\task4\obj\Debug\net8.0\task4.dll
+E:\GB_Unity_study\Lection_Array\task4\obj\Debug\net8.0\refint\task4.dll
+E:\GB_Unity_study\Lection_Array\task4\obj\Debug\net8.0\task4.pdb
+E:\GB_Unity_study\Lection_Array\task4\obj\Debug\net8.0\task4.genruntimeconfig.cache
+E:\GB_Unity_study\Lection_Array\task4\obj\Debug\net8.0\ref\task4.dll
